@@ -1,0 +1,18 @@
+.home {
+    width: 90%;
+    max-width: 40rem;
+    padding: 3rem;
+    margin: 2rem auto;
+    /* text-align: center; */
+  }
+  .noQ{
+    background-color: #6aa49d;
+    text-align: center;
+    height: 45px;
+    margin-bottom: 10px;
+}
+.noQ p{
+    padding-top: 12px;
+    font-size: 16px;
+    font-weight: 600;
+}
